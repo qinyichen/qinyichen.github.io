@@ -10,7 +10,7 @@ contact_note:
 description: >
   Personal website of Qinyi Chen, Ph.D. in Operations Research at MIT.
 footer_text: >
-  &copy; Qinyi Chen. Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: qinyi chen, operations research, MIT, academic website
 lang: en
 icon: 📚
