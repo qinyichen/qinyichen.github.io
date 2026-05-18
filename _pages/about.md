@@ -4,27 +4,88 @@ title: about
 permalink: /
 subtitle: Ph.D. in Operations Research, <a href='https://orc.mit.edu/'>MIT ORC</a>.
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false
-  more_info: >
-    <p>qinyichen1230@gmail.com</p>
-
-selected_papers: true
 social: true
 
 announcements:
-  enabled: true
-  scrollable: true
-  limit: 5
-
+  enabled: false
 latest_posts:
   enabled: false
-  scrollable: true
-  limit: 3
+selected_papers: false
 ---
 
 I am a final-year PhD student in the Operations Research Center (ORC) at MIT, where I am advised by Prof. Negin Golrezaei. Prior to MIT, I received my B.S. in Applied Mathematics with a specialization in computing from UCLA in 2020.
 
 My research centers on designing ML and optimization algorithms tailored for operations of digital marketplaces, including online advertising, recommender systems, revenue and inventory management. My research interests span multi-armed bandits and RL, fair and responsible AI, data-driven optimization, and game and auction theory.
+
+<h2 id="publications">publications</h2>
+
+##### preprints / under review
+
+- **Fair Assortment Planning.** Q. Chen, N. Golrezaei, F. Susan.
+  - Finalist, INFORMS IBM Service Science Best Student Paper Competition
+  - Finalist, INFORMS Social Media Analytics Best Student Paper Competition
+  - Honorable Mention, INFORMS Minority Issue Forum Student Poster Competition
+- **Non-Stationary Bandits with Auto-Regressive Temporal Dependency.** Q. Chen, N. Golrezaei, D. Bouneffouf. *Initial version appeared at NeurIPS 2023.*
+- **Learning to be Fair in Multi-Sided Recommendation Systems.** Q. Chen, J. C. N. Liang, N. Golrezaei, D. Bouneffouf. *Initial version appeared at NeurIPS 2024.*
+
+##### published
+
+- **Interpolating Item and User Fairness in Multi-Sided Recommendations.** Q. Chen, J. C. N. Liang, N. Golrezaei, D. Bouneffouf. *NeurIPS 2024.*
+- **Optimization-Based Budget Pacing in eBay Sponsored Search.** Q. Chen, P. H. Nguyen, D. Gligorijevic. *WWW '24.*
+- **Non-Stationary Bandits with Auto-Regressive Temporal Dependency.** Q. Chen, N. Golrezaei, D. Bouneffouf. *NeurIPS 2023.*
+- **Epidemic Thresholds of Infectious Diseases on Tie-Decay Networks.** Q. Chen, M. A. Porter. *Journal of Complex Networks*, February 2022.
+- **Subgraph Matching on Multiplex Networks.** J. D. Moorman, T. K. Tu, Q. Chen, X. He, A. L. Bertozzi. *IEEE Transactions on Network Science and Engineering*, February 2021.
+- **Inexact Attributed Subgraph Matching.** T. K. Tu, J. D. Moorman, D. Yang, Q. Chen, A. L. Bertozzi. *2020 IEEE International Conference on Big Data.*
+- **Filtering Methods for Subgraph Matching on Multiplex Networks.** J. D. Moorman, Q. Chen, T. K. Tu, Z. Boyd, A. L. Bertozzi. *2018 IEEE International Conference on Big Data.*
+
+<h2 id="talks">talks</h2>
+
+##### Interpolating Item and User Fairness in Multi-Sided Recommendations
+
+- NeurIPS, December 2024
+- INFORMS Annual Meeting, October 2024
+- Revenue Management & Pricing Conference, July 2024
+- Symposium on Foundation of Responsible Computing (FORC), June 2024
+- ML Tea Talk, MIT CSAIL, April 2024
+- INFORMS Annual Meeting, October 2023
+
+##### Fair Assortment Planning
+
+- INFORMS Annual Meeting, October 2023
+- POMS Annual Meeting, May 2023
+- INFORMS Annual Meeting, October 2022
+- C3.ai Data, Learning, and Markets workshop at UIUC, October 2022
+- Young Researchers Workshop at Cornell University, October 2022
+- MSOM Service Management SIG Conference, June 2022
+- Revenue Management & Pricing Conference (Spotlight), June 2022
+- EC '22 Poster Session, June 2022
+- Marketplace Innovation Workshop (MIW), May 2022
+
+##### Non-Stationary Bandits with Auto-Regressive Temporal Dependency
+
+- NeurIPS, December 2023
+- INFORMS Annual Meeting, October 2023
+- INFORMS Annual Meeting, October 2022
+- IJCAI-ECAI 2022 Doctoral Consortium, July 2022
+- MIT-IBM Watson AI Lab Poster Session, April 2022
+- INFORMS Annual Meeting, October 2021
+- MIT-IBM Watson AI Lab Poster Session, April 2021
+
+<h2 id="services">services</h2>
+
+##### Reviewer — Conferences
+
+ICML (2022–2025), NeurIPS (2022–2025), ICLR (2024–2026), The Web Conference (2024–2026), AISTATS (2025), AAAI (2025)
+
+##### Reviewer — Journals
+
+Management Science, Production and Operations Management, IEEE Open Journal of Signal Processing
+
+##### Conference Session Chair
+
+- "Learning and Markets", 2024 INFORMS Annual Meeting
+- "Fair and Socially Aware Practices in Operations Management", 2023 INFORMS Annual Meeting
+
+##### Seminar Coordinator
+
+MIT Operations Management Seminar Series, Spring 2021 & Fall 2021
