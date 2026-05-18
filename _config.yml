@@ -6,8 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Qinyi
 middle_name:
 last_name: Chen
-contact_note: >
-  The best way to reach me is by email.
+contact_note:
 description: >
   Personal website of Qinyi Chen, Ph.D. in Operations Research at MIT.
 footer_text: >

@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: Ph.D. in Operations Research, <a href='https://orc.mit.edu/'>MIT ORC</a>.
 
-social: true
+social: false
 
 announcements:
   enabled: false
@@ -16,6 +16,18 @@ selected_papers: false
 I am a final-year PhD student in the Operations Research Center (ORC) at MIT, where I am advised by Prof. Negin Golrezaei. Prior to MIT, I received my B.S. in Applied Mathematics with a specialization in computing from UCLA in 2020.
 
 My research centers on designing ML and optimization algorithms tailored for operations of digital marketplaces, including online advertising, recommender systems, revenue and inventory management. My research interests span multi-armed bandits and RL, fair and responsible AI, data-driven optimization, and game and auction theory.
+
+<div class="contact-buttons my-4">
+  <a class="btn btn-outline-dark mr-2 mb-2" href="mailto:qinyichen1230@gmail.com">
+    <i class="fa-solid fa-envelope mr-1"></i> Email
+  </a>
+  <a class="btn btn-outline-dark mr-2 mb-2" href="https://www.linkedin.com/in/qinyi-chen-4735aa112" target="_blank" rel="noopener">
+    <i class="fa-brands fa-linkedin mr-1"></i> LinkedIn
+  </a>
+  <a class="btn btn-outline-dark mr-2 mb-2" href="https://scholar.google.com/citations?user=lY2VAB0AAAAJ" target="_blank" rel="noopener">
+    <i class="ai ai-google-scholar mr-1"></i> Google Scholar
+  </a>
+</div>
 
 <h2 id="publications">publications</h2>
 
