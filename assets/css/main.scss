@@ -37,3 +37,50 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+/* --- Custom site overrides --- */
+
+/* Accent color (light + dark mode) */
+html[data-theme='light'] {
+  --global-theme-color: #1f3a5c;
+  --global-hover-color: #1f3a5c;
+}
+html[data-theme='dark'] {
+  --global-theme-color: #7ba6d7;
+  --global-hover-color: #7ba6d7;
+}
+
+/* Section spacing + minimalist h2 underline */
+.post article h2 {
+  margin-top: 3.5rem;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid var(--global-divider-color);
+  font-weight: 300;
+  letter-spacing: 0.4px;
+}
+.post article h5 {
+  margin-top: 1.75rem;
+  margin-bottom: 0.4rem;
+  font-weight: 600;
+  font-size: 1rem;
+}
+.post article ul li {
+  margin-bottom: 0.35rem;
+  line-height: 1.55;
+}
+
+/* Contact buttons */
+.contact-buttons .btn {
+  font-size: 0.95rem;
+  padding: 0.5rem 1.1rem;
+  border-color: var(--global-text-color);
+  color: var(--global-text-color);
+  background-color: transparent;
+  transition: all 0.2s ease;
+}
+.contact-buttons .btn:hover {
+  background-color: var(--global-theme-color);
+  border-color: var(--global-theme-color);
+  color: #fff;
+}

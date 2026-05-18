@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. in Operations Research, <a href='https://orc.mit.edu/'>MIT ORC</a>.
+subtitle: Ph.D. in Operations Research, MIT ORC.
 
 social: false
 
@@ -33,22 +33,40 @@ My research centers on designing ML and optimization algorithms tailored for ope
 
 ##### preprints / under review
 
-- **Fair Assortment Planning.** Q. Chen, N. Golrezaei, F. Susan.
+- **Fair Assortment Planning.** Q. Chen, N. Golrezaei, F. Susan. *Major Revision, Operations Research.*  
+  \[[arXiv](https://arxiv.org/abs/2208.07341)\] \[[video](https://www.youtube.com/watch?v=SR1UaLxE_xM&t=84s)\] \[[talk](https://www.youtube.com/watch?v=NdlRGKx8rAQ)\]
   - Finalist, INFORMS IBM Service Science Best Student Paper Competition
   - Finalist, INFORMS Social Media Analytics Best Student Paper Competition
   - Honorable Mention, INFORMS Minority Issue Forum Student Poster Competition
-- **Non-Stationary Bandits with Auto-Regressive Temporal Dependency.** Q. Chen, N. Golrezaei, D. Bouneffouf. *Initial version appeared at NeurIPS 2023.*
-- **Learning to be Fair in Multi-Sided Recommendation Systems.** Q. Chen, J. C. N. Liang, N. Golrezaei, D. Bouneffouf. *Initial version appeared at NeurIPS 2024.*
+
+- **Non-Stationary Bandits with Auto-Regressive Temporal Dependency.** Q. Chen, N. Golrezaei, D. Bouneffouf. *Major Revision, Mathematics of Operations Research.* *Initial version appeared at NeurIPS 2023.*  
+  \[[arXiv](https://arxiv.org/abs/2210.16386)\]
+
+- **Learning to be Fair in Multi-Sided Recommendation Systems.** Q. Chen, J. C. N. Liang, N. Golrezaei, D. Bouneffouf. *Major Revision, Manufacturing & Service Operations Management.* *Initial version appeared at NeurIPS 2024.*  
+  \[[arXiv](https://arxiv.org/abs/2306.10050)\]
 
 ##### published
 
-- **Interpolating Item and User Fairness in Multi-Sided Recommendations.** Q. Chen, J. C. N. Liang, N. Golrezaei, D. Bouneffouf. *NeurIPS 2024.*
-- **Optimization-Based Budget Pacing in eBay Sponsored Search.** Q. Chen, P. H. Nguyen, D. Gligorijevic. *WWW '24.*
-- **Non-Stationary Bandits with Auto-Regressive Temporal Dependency.** Q. Chen, N. Golrezaei, D. Bouneffouf. *NeurIPS 2023.*
-- **Epidemic Thresholds of Infectious Diseases on Tie-Decay Networks.** Q. Chen, M. A. Porter. *Journal of Complex Networks*, February 2022.
-- **Subgraph Matching on Multiplex Networks.** J. D. Moorman, T. K. Tu, Q. Chen, X. He, A. L. Bertozzi. *IEEE Transactions on Network Science and Engineering*, February 2021.
-- **Inexact Attributed Subgraph Matching.** T. K. Tu, J. D. Moorman, D. Yang, Q. Chen, A. L. Bertozzi. *2020 IEEE International Conference on Big Data.*
-- **Filtering Methods for Subgraph Matching on Multiplex Networks.** J. D. Moorman, Q. Chen, T. K. Tu, Z. Boyd, A. L. Bertozzi. *2018 IEEE International Conference on Big Data.*
+- **Interpolating Item and User Fairness in Multi-Sided Recommendations.** Q. Chen, J. C. N. Liang, N. Golrezaei, D. Bouneffouf. *NeurIPS 2024.*  
+  \[[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/59d4e18a60490b9ed9913f3be2b14839-Abstract-Conference.html)\] \[[MIT Sloan press](https://mitsloan.mit.edu/press/mit-sloan-researchers-develop-first-their-kind-algorithms)\]
+
+- **Optimization-Based Budget Pacing in eBay Sponsored Search.** Q. Chen, P. H. Nguyen, D. Gligorijevic. *WWW '24.*  
+  \[[paper](https://dl.acm.org/doi/10.1145/3589335.3648331)\]
+
+- **Non-Stationary Bandits with Auto-Regressive Temporal Dependency.** Q. Chen, N. Golrezaei, D. Bouneffouf. *NeurIPS 2023.*  
+  \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/186a213d720568b31f9b59c085a23e5a-Abstract-Conference.html)\]
+
+- **Epidemic Thresholds of Infectious Diseases on Tie-Decay Networks.** Q. Chen, M. A. Porter. *Journal of Complex Networks*, February 2022.  
+  \[[arXiv](https://arxiv.org/abs/2009.12932)\]
+
+- **Subgraph Matching on Multiplex Networks.** J. D. Moorman, T. K. Tu, Q. Chen, X. He, A. L. Bertozzi. *IEEE Transactions on Network Science and Engineering*, February 2021.  
+  \[[paper](https://ieeexplore.ieee.org/document/9346051)\]
+
+- **Inexact Attributed Subgraph Matching.** T. K. Tu, J. D. Moorman, D. Yang, Q. Chen, A. L. Bertozzi. *2020 IEEE International Conference on Big Data.*  
+  \[[paper](https://ieeexplore.ieee.org/document/9377872)\]
+
+- **Filtering Methods for Subgraph Matching on Multiplex Networks.** J. D. Moorman, Q. Chen, T. K. Tu, Z. Boyd, A. L. Bertozzi. *2018 IEEE International Conference on Big Data.*  
+  \[[paper](https://ieeexplore.ieee.org/document/8622566)\]
 
 <h2 id="talks">talks</h2>
 
