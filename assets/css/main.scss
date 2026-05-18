@@ -40,14 +40,25 @@
 
 /* --- Custom site overrides --- */
 
-/* Accent color (light + dark mode) */
+/* Accent color (light + dark mode) — deep teal-emerald */
 html[data-theme='light'] {
-  --global-theme-color: #1f3a5c;
-  --global-hover-color: #1f3a5c;
+  --global-theme-color: #1a6b5b;
+  --global-hover-color: #1a6b5b;
 }
 html[data-theme='dark'] {
-  --global-theme-color: #7ba6d7;
-  --global-hover-color: #7ba6d7;
+  --global-theme-color: #5fb39e;
+  --global-hover-color: #5fb39e;
+}
+
+/* Color inline links in the body so they pop a bit */
+.post article a:not(.btn):not(.nav-link) {
+  color: var(--global-theme-color);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.15s ease;
+}
+.post article a:not(.btn):not(.nav-link):hover {
+  border-bottom-color: var(--global-theme-color);
 }
 
 /* Section spacing + minimalist h2 underline */
