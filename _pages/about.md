@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: Ph.D. in Operations Research, MIT ORC.
+subtitle:
 
 social: false
 
@@ -13,39 +13,36 @@ latest_posts:
 selected_papers: false
 ---
 
-I am a final-year PhD student in the Operations Research Center (ORC) at MIT, where I am advised by Prof. Negin Golrezaei. Prior to MIT, I received my B.S. in Applied Mathematics with a specialization in computing from UCLA in 2020.
+I recently completed my PhD in the Operations Research Center (ORC) at MIT, where I was advised by Prof. Negin Golrezaei. Prior to MIT, I received my B.S. in Applied Mathematics with a specialization in computing from UCLA in 2020.
 
 My research centers on designing ML and optimization algorithms tailored for operations of digital marketplaces, including online advertising, recommender systems, revenue and inventory management. My research interests span multi-armed bandits and RL, fair and responsible AI, data-driven optimization, and game and auction theory.
 
 <div class="contact-buttons my-4">
-  <a class="btn btn-outline-dark mr-2 mb-2" href="mailto:qinyichen1230@gmail.com">
-    <i class="fa-solid fa-envelope mr-1"></i> Email
+  <a class="btn btn-outline-dark" href="mailto:qinyichen1230@gmail.com" title="Email" aria-label="Email">
+    <i class="fa-solid fa-envelope"></i>
   </a>
-  <a class="btn btn-outline-dark mr-2 mb-2" href="https://www.linkedin.com/in/qinyi-chen-4735aa112" target="_blank" rel="noopener">
-    <i class="fa-brands fa-linkedin mr-1"></i> LinkedIn
+  <a class="btn btn-outline-dark" href="https://www.linkedin.com/in/qinyi-chen-4735aa112" target="_blank" rel="noopener" title="LinkedIn" aria-label="LinkedIn">
+    <i class="fa-brands fa-linkedin"></i>
   </a>
-  <a class="btn btn-outline-dark mr-2 mb-2" href="https://scholar.google.com/citations?user=lY2VAB0AAAAJ" target="_blank" rel="noopener">
-    <i class="ai ai-google-scholar mr-1"></i> Google Scholar
+  <a class="btn btn-outline-dark" href="https://scholar.google.com/citations?user=lY2VAB0AAAAJ" target="_blank" rel="noopener" title="Google Scholar" aria-label="Google Scholar">
+    <i class="ai ai-google-scholar"></i>
   </a>
 </div>
 
-<h2 id="publications">publications</h2>
+<h2 id="publications">Publications</h2>
 
-##### preprints / under review
+##### Preprints / Under Review
 
-- **Fair Assortment Planning.** Q. Chen, N. Golrezaei, F. Susan. *Major Revision, Operations Research.*  
+- **Fair Assortment Planning.** Q. Chen, N. Golrezaei, F. Susan. *Minor Revision, Operations Research.*  
   \[[arXiv](https://arxiv.org/abs/2208.07341)\] \[[video](https://www.youtube.com/watch?v=SR1UaLxE_xM&t=84s)\] \[[talk](https://www.youtube.com/watch?v=NdlRGKx8rAQ)\]
   - Finalist, INFORMS IBM Service Science Best Student Paper Competition
   - Finalist, INFORMS Social Media Analytics Best Student Paper Competition
   - Honorable Mention, INFORMS Minority Issue Forum Student Poster Competition
 
-- **Non-Stationary Bandits with Auto-Regressive Temporal Dependency.** Q. Chen, N. Golrezaei, D. Bouneffouf. *Major Revision, Mathematics of Operations Research.* *Initial version appeared at NeurIPS 2023.*  
+- **Non-Stationary Bandits with Auto-Regressive Temporal Dependency.** Q. Chen, N. Golrezaei, D. Bouneffouf. *Minor Revision, Mathematics of Operations Research.* *Initial version appeared at NeurIPS 2023.*  
   \[[arXiv](https://arxiv.org/abs/2210.16386)\]
 
-- **Learning to be Fair in Multi-Sided Recommendation Systems.** Q. Chen, J. C. N. Liang, N. Golrezaei, D. Bouneffouf. *Major Revision, Manufacturing & Service Operations Management.* *Initial version appeared at NeurIPS 2024.*  
-  \[[arXiv](https://arxiv.org/abs/2306.10050)\]
-
-##### published
+##### Published
 
 - **Interpolating Item and User Fairness in Multi-Sided Recommendations.** Q. Chen, J. C. N. Liang, N. Golrezaei, D. Bouneffouf. *NeurIPS 2024.*  
   \[[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/59d4e18a60490b9ed9913f3be2b14839-Abstract-Conference.html)\] \[[MIT Sloan press](https://mitsloan.mit.edu/press/mit-sloan-researchers-develop-first-their-kind-algorithms)\]
@@ -68,7 +65,7 @@ My research centers on designing ML and optimization algorithms tailored for ope
 - **Filtering Methods for Subgraph Matching on Multiplex Networks.** J. D. Moorman, Q. Chen, T. K. Tu, Z. Boyd, A. L. Bertozzi. *2018 IEEE International Conference on Big Data.*  
   \[[paper](https://ieeexplore.ieee.org/document/8622566)\]
 
-<h2 id="talks">talks</h2>
+<h2 id="talks">Talks</h2>
 
 ##### Interpolating Item and User Fairness in Multi-Sided Recommendations
 
@@ -101,15 +98,12 @@ My research centers on designing ML and optimization algorithms tailored for ope
 - INFORMS Annual Meeting, October 2021
 - MIT-IBM Watson AI Lab Poster Session, April 2021
 
-<h2 id="services">services</h2>
+<h2 id="services">Services</h2>
 
-##### Reviewer — Conferences
+##### Reviewer
 
-ICML (2022–2025), NeurIPS (2022–2025), ICLR (2024–2026), The Web Conference (2024–2026), AISTATS (2025), AAAI (2025)
-
-##### Reviewer — Journals
-
-Management Science, Production and Operations Management, IEEE Open Journal of Signal Processing
+**Conferences:** ICML (2022–2025), NeurIPS (2022–2025), ICLR (2024–2026), The Web Conference (2024–2026), AISTATS (2025), AAAI (2025).  
+**Journals:** Management Science, Production and Operations Management, IEEE Open Journal of Signal Processing.
 
 ##### Conference Session Chair
 
