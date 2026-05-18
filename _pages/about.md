@@ -17,14 +17,14 @@ I recently completed my PhD in the Operations Research Center (ORC) at MIT, wher
 
 My research centers on designing ML and optimization algorithms tailored for operations of digital marketplaces, including online advertising, recommender systems, revenue and inventory management. My research interests span multi-armed bandits and RL, fair and responsible AI, data-driven optimization, and game and auction theory.
 
-<div class="contact-buttons my-4">
-  <a class="btn btn-outline-dark" href="mailto:qinyichen1230@gmail.com" title="Email" aria-label="Email">
+<div class="contact-icons-row">
+  <a href="mailto:qinyichen1230@gmail.com" title="Email" aria-label="Email">
     <i class="fa-solid fa-envelope"></i>
   </a>
-  <a class="btn btn-outline-dark" href="https://www.linkedin.com/in/qinyi-chen-4735aa112" target="_blank" rel="noopener" title="LinkedIn" aria-label="LinkedIn">
+  <a href="https://www.linkedin.com/in/qinyi-chen-4735aa112" target="_blank" rel="noopener" title="LinkedIn" aria-label="LinkedIn">
     <i class="fa-brands fa-linkedin"></i>
   </a>
-  <a class="btn btn-outline-dark" href="https://scholar.google.com/citations?user=lY2VAB0AAAAJ" target="_blank" rel="noopener" title="Google Scholar" aria-label="Google Scholar">
+  <a href="https://scholar.google.com/citations?user=lY2VAB0AAAAJ" target="_blank" rel="noopener" title="Google Scholar" aria-label="Google Scholar">
     <i class="ai ai-google-scholar"></i>
   </a>
 </div>

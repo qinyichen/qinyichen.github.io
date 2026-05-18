@@ -81,24 +81,23 @@ html[data-theme='dark'] {
   line-height: 1.55;
 }
 
-/* Contact icon buttons (circular, icon-only) */
-.contact-buttons .btn {
-  width: 2.6rem;
-  height: 2.6rem;
-  display: inline-flex;
+/* Contact icons — plain, no button outline */
+.contact-icons-row {
+  display: flex;
+  gap: 1.4rem;
   align-items: center;
-  justify-content: center;
-  padding: 0;
-  font-size: 1.05rem;
-  border-radius: 50%;
-  border-color: var(--global-text-color);
-  color: var(--global-text-color);
-  background-color: transparent;
-  margin-right: 0.5rem;
-  transition: all 0.2s ease;
+  margin: 1.25rem 0 2rem;
+  font-size: 1.55rem;
 }
-.contact-buttons .btn:hover {
-  background-color: var(--global-theme-color);
-  border-color: var(--global-theme-color);
-  color: #fff;
+.contact-icons-row a,
+.post article .contact-icons-row a {
+  color: var(--global-text-color);
+  border-bottom: none !important;
+  transition: color 0.15s ease;
+  line-height: 1;
+}
+.contact-icons-row a:hover,
+.post article .contact-icons-row a:hover {
+  color: var(--global-theme-color);
+  border-bottom: none !important;
 }
