@@ -39,8 +39,8 @@ My research centers on designing ML and optimization algorithms tailored for ope
   - Finalist, INFORMS Social Media Analytics Best Student Paper Competition
   - Honorable Mention, INFORMS Minority Issue Forum Student Poster Competition
 
-- **Non-Stationary Bandits with Auto-Regressive Temporal Dependency.** Q. Chen, N. Golrezaei, D. Bouneffouf. *Minor Revision, Mathematics of Operations Research.* *Initial version appeared at NeurIPS 2023.*  
-  \[[arXiv](https://arxiv.org/abs/2210.16386)\]
+- **Learning to Adapt in Non-Stationary Bandits with Autoregressive Temporal Structure.** Q. Chen, N. Golrezaei, D. Bouneffouf. *Accepted, Mathematics of Operations Research, 2026.*
+  - [Initial version](https://arxiv.org/abs/2210.16386) appeared at NeurIPS 2023.
 
 ##### Published
 
